@@ -26,7 +26,7 @@ Example return value:
 [ "/usr/local/share/foo.txt", "/usr/bin/ls", "/home/davidlightman/foo.txt" ]
 ```
 
-because that's where the `foo.txt` and `ls` files are. 
+because that's where the `foo.txt` and `ls` files are.
 
 The file `"nosuchfile.txt"` is ignored because it's not in the `paths`.
 
